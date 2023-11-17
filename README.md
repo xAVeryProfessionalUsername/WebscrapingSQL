@@ -1,4 +1,4 @@
-# WebscrapingnSQL
+# WebscrapingSQL
 
 Scraping data from Federal Reserve and uploaing them to SQL database
 
